@@ -7,9 +7,11 @@ Note:
 
 To make sure that the node version is aligned with the same as that of development nvm is used.
 Run nvm use command to use node v16.13.2.
-Install the dependencies: npm install
-Start the server locally: npm start The app will be accessible on url http://localhost:4000/
-Other commands
+
+#### Install the dependencies: npm install
+
+#### Start the server locally: npm start The app will be accessible on url http://localhost:4000/
+
 ```
 Api's for Question_1 :
 request              api               feature
