@@ -10,7 +10,7 @@ Run nvm use command to use node v16.13.2.
 Install the dependencies: npm install
 Start the server locally: npm start The app will be accessible on url http://localhost:4000/
 Other commands
-
+```
 Api's for Question_1 :
 request              api               feature
    get               /student        "for geting data from : 'https://coderbyte.com/api/challenges/json/json-cleaning'
@@ -24,5 +24,4 @@ Api's for Question_2 :
   post             /createStudent     'for creating a new student'
   put              /updateStudent     'for updating detail of student'
   delete           /deleteStudent     'for delete any existing student
-               
-    
+  ``` 
